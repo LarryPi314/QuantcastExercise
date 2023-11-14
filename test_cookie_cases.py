@@ -1,6 +1,6 @@
 # test_cookie_cases.py
 
-from most_active_cookie import *
+from most_active_cookie_optimized import *
 
 # Provided test case with one most active cookie
 def test_one_cookie():
